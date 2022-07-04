@@ -1,8 +1,9 @@
-"name":"sistemaapp",
-"version":"0.1.0",
-"private":true,
 
 {
+  "name":"sistemaapp",
+"version":"0.1.0",
+"private":true,
+  
   "dependencies": {
     "koa": "^2.13.4"
   },
