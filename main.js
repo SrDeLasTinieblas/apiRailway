@@ -3,8 +3,7 @@ const app = new Koa();
 
 
 app.use(async ctx => {
-  //ctx.body = 'Hello World from Railway';
-  ctx.json(mensaje:"Nodejs and JWT")
+  ctx.body = 'Hello World from Railway';
 });
 
 
