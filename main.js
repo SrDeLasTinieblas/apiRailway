@@ -3,13 +3,10 @@ const app = new Koa();
 
 
 app.use(async ctx => {
-  ctx.body = 'Hello World from Railway';
-});
-
-app.get("/api",(req,res)=>{
-    res.json(
+      res.json(
         mensaje:"Nodejs and JWT"
 });
+
 
 const PORT = 5000
 
