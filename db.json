@@ -2,18 +2,28 @@
   "categorias": [
     {
       "id": 1,
-      "nombre": "categoria_1",
-      "titulo": "Título de la categoría 1"
+      "nombre": "Audifonos",
+      "imagen": "Título de la categoría 1"
     },
     {
       "id": 2,
-      "nombre": "categoria_2",
-      "titulo": "Título de la categoría 2"
+      "nombre": "Sillas Gamer",
+      "imagen": "Título de la categoría 2"
     },
     {
       "id": 3,
-      "nombre": "categoria_3",
-      "titulo": "Título de la categoría 3"
+      "nombre": "Camaras",
+      "imagen": "Título de la categoría 3"
+    },
+        {
+      "id": 4,
+      "nombre": "Celurales",
+      "imagen": "Título de la categoría 2"
+    },
+        {
+      "id": 5,
+      "nombre": "Tablets",
+      "imagen": "Título de la categoría 2"
     }
   ]
 }
