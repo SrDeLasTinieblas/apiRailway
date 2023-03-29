@@ -3,27 +3,27 @@
     {
       "id": 1,
       "nombre": "Audifonos",
-      "imagen": "Título de la categoría 1"
+      "imagen": "https://i.ibb.co/zFbWr7Z/earphone.png"
     },
     {
       "id": 2,
       "nombre": "Sillas Gamer",
-      "imagen": "Título de la categoría 2"
+      "imagen": "https://i.ibb.co/zFbWr7Z/earphone.png"
     },
     {
       "id": 3,
       "nombre": "Camaras",
-      "imagen": "Título de la categoría 3"
+      "imagen": "https://i.ibb.co/zFbWr7Z/earphone.png"
     },
         {
       "id": 4,
       "nombre": "Celurales",
-      "imagen": "Título de la categoría 4"
+      "imagen": "https://i.ibb.co/zFbWr7Z/earphone.png"
     },
         {
       "id": 5,
       "nombre": "Tablets",
-      "imagen": "Título de la categoría 5"
+      "imagen": "https://i.ibb.co/zFbWr7Z/earphone.png"
     }
   ]
 }
