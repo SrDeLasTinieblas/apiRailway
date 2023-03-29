@@ -1,0 +1,31 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "imagen4": "",
+      "categoria": "Audifonos"
+    },
+    {
+      "id": 2,
+      "imagen3": "https://i.ibb.co/Y20YSQt/1sillablue.png",
+      "imagen4": "",
+      "categoria": "Sillas Gamer"
+    },
+    {
+    "id": 3,
+    "imagen4": "https://i.ibb.co/sVYrV4k/Frame-headphone.png",
+    "categoria": "Camaras"
+  },
+  {
+    "id": 4,
+    "imagen3": "https://i.ibb.co/Ytx6Z32/197916-800-auto-removebg-preview.png",
+    "categoria": "Celurales"
+  }
+  {
+    "id": 6,
+    "imagen3": "https://i.ibb.co/Sd5Jk9H/215013-800-auto-removebg-preview.png",
+    "categoria": "Tablets"
+  }
+    
+  ]
+}
